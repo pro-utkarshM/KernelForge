@@ -84,4 +84,3 @@ Embark on this exciting journey to build a multithreaded kernel from scratch. Al
 
 ---
 
-If you have any additional context or specific project goals in mind, feel free to share, and I can further tailor this!
